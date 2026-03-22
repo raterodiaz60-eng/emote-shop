@@ -1,6 +1,5 @@
 {
-    "name": "roblox-emote-proxy",
+    "name": "emote-shop",
     "version": "1.0.0",
-    "description": "Proxy para el catálogo de emotes de Roblox",
     "private": true
 }
